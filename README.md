@@ -1,1 +1,2 @@
-# projecct
+# Projecct
+### Capstone project
